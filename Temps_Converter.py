@@ -18,6 +18,7 @@ def temp_conv():
 
     print("The temperature " + str(t_in) + " in " + x + " is equal to " + str(t_out) + " in " + y)
     print("end")
+    print("V Temps_Converter 1.1")
 
 temp_conv()
 temp_conv()
